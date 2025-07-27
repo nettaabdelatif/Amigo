@@ -1,0 +1,2 @@
+C:/Users/netta/Desktop/application food delevrie/User app and web/android/app/.cxx/RelWithDebInfo/5j2d5c6x/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/netta/Desktop/application food delevrie/User app and web/android/app/.cxx/RelWithDebInfo/5j2d5c6x/arm64-v8a/CMakeFiles/rebuild_cache.dir

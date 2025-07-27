@@ -1,0 +1,2 @@
+C:/Users/netta/Desktop/djo/djoapp/android/app/.cxx/RelWithDebInfo/645d3yi5/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/netta/Desktop/djo/djoapp/android/app/.cxx/RelWithDebInfo/645d3yi5/x86_64/CMakeFiles/rebuild_cache.dir
